@@ -1,6 +1,3 @@
-Claro, aqui está um arquivo `README.md` em Markdown para o seu código:
-
-```markdown
 # Sistema Bancário Simples
 
 Este é um sistema bancário simples em C que permite realizar saques em contas bancárias de diferentes tipos.
